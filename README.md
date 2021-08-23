@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Libiv
 
-- 🌱 I’m currently learning Data Science Career Track with Springboard
+- I’m currently learning Data Science Career Track with Springboard
 
 
 
